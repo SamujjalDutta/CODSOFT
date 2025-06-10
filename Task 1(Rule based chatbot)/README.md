@@ -1,6 +1,6 @@
 # Task 1 - Rule-Based Chatbot
 
-#Overview
+# Overview
 
 This is a simple Python-based chatbot created for the CodSoft AI Internship. The bot responds to specific user inputs using predefined answers stored in a dictionary. It also includes a typing effect to make the conversation feel more natural.
 

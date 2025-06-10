@@ -17,7 +17,7 @@ The bot, named StudentBot, is designed specifically to assist students by:
 - Providing study tips (e.g., Pomodoro technique)
 - Responding to common questions like "who made you" or "your name"
 
-The chatbot uses a dictionary-based logic to match user inputs and includes a typing effect to make the interaction feel more realistic. It was built without using any external libraries, relying only on Python's built-in modules (time and random), making it lightweight and beginner-friendly.
+The chatbot uses a dictionary-based logic to match user inputs and includes a typing effect to make the interaction feel more realistic. It was built without using any external libraries, relying only on Python's built-in modules (time and random).
 
 This project demonstrates:
 

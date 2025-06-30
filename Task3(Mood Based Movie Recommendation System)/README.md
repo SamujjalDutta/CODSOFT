@@ -37,8 +37,11 @@ Examples:
 ## File Structure
 
 Task 3 - Mood Based Movie Recommender/
+
 ├── mood_movie_recommender.py
+
 ├── tmdb_5000_movies.csv
+
 └── README.md
 
 ## Technologies Used
@@ -59,7 +62,7 @@ Task 3 - Mood Based Movie Recommender/
 
 5. Run the program:
 
-      - python mood_movie_recommender.py
+      - python mood_based_movie_recommendation_system.py
 6. Enter your mood (e.g., "I want a romantic story")
 
 ## Dataset Used
